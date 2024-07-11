@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AOSXAP
+- 👋 Hi, I’m Andrei
 - 👀 I’m interested in Javascript , C , C++
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on small and medium open source projects
